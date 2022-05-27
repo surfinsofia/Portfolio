@@ -6,3 +6,4 @@ https://surfinsofia.github.io/portfolio/
 
 A screenshot is included in the assets folder.
 
+![screenshot](assets/screenshot.png)
