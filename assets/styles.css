@@ -255,6 +255,7 @@ font-size: 60px;
       .works {
         margin: 80px;
         list-style: none;
+        font-size: 20px;
     }
     ul li {
         margin: 10px;
