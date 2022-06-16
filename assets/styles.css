@@ -180,7 +180,7 @@ text-align: center;
     padding: 50px;
     height: 700px;
     font-family:'Courier New', Courier, monospace;
-    background-color:rgb(42, 3, 16);
+    background-color:rgb(58, 5, 27);
     color: #ffffff;
     font-size: 25px;
     text-align: center;
@@ -203,7 +203,7 @@ font-size: 60px;
 
 
 
-.footer {
+.contact {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -212,7 +212,7 @@ font-size: 60px;
     font-size: 25px;  
 }
     
-.footer h2 {
+.contact h2 {
     font-size: 30px;}
 
 
