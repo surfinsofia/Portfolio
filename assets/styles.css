@@ -18,7 +18,7 @@ background-attachment: fixed;
   padding: 09px;
   clear: both;
   float: right;
-  width: 25%;
+  width: 30%;
   height: 100%;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   background-color: #070114;
@@ -26,7 +26,7 @@ background-attachment: fixed;
   background-image: url('./code.gif');
   margin-bottom: 100px;
     margin-right: 130px;
-    margin-left: 50px;
+    margin-left: 0px;
     margin-top: 130px;
 }
 
