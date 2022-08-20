@@ -299,7 +299,10 @@ font-size: 60px;
     }
     
     .footer h2 {
-        font-size: 30px;
-        
-    
+        font-size: 15px;
+    }
+
+    .footer p {
+      font-size: 18px;
+      color: rgba(255, 255, 255, 0.335);
     }
